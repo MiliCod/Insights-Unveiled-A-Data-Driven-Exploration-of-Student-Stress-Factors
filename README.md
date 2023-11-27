@@ -65,9 +65,9 @@ Charts and visualizations will be created to illustrate the relationships betwee
 
 Based on our findings, recommendations will be formulated to help alleviate student stress by focusing on the identified criteria. The goal is to provide actionable insights for educational institutions and students to enhance well-being and academic success.
 
-## Milestone: End of Second Month
+## Milestone: Half of December
 
-By the end of the second month, our goals include:
+By the half of december, our goals include:
 
 - Completion of data preprocessing.
 - Execution of initial models to obtain baseline results.
